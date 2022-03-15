@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ForecastApp</string>
+    <string name="lviv">Lviv</string>
+    <string name="celcius">C</string>
+    <string name="speed">km/h</string>
+    <string name="cloud">cloud</string>
+    <string name="min_temperature">Min temperature</string>
+    <string name="feels_like">Feels like</string>
+    <string name="max_temperature">Max temperature</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunrise_sunset">Sunrise/Sunset</string>
+    <string name="humidity">Humidity</string>
+</resources>
